@@ -35,13 +35,13 @@ Youth in Jordan face difficulties finding job openings tailored to their needs. 
 ## Dashboard Preview 📊
 
 ### 1. Main Dashboard View
-![Job Vacancies Dashboard](images/dashboard.png)
+![Job Vacancies Dashboard](Images/dashboard.png)
 
 ### 2. Secondary Dashboard
-![Secondary View](images/dashboard-2.png)
+![Secondary View](Images/dashboard-2.png)
 
 ### 3. Detailed Analysis
-![Analysis Dashboard](images/analysis.png)
+![Analysis Dashboard](Images/analysis.png)
 
 ---
 
