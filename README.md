@@ -57,4 +57,4 @@ Youth in Jordan face difficulties finding job openings tailored to their needs. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/job-posting-dashboard.git
+   git clone https://github.com/yourusername/Job-Posting-for-Young-people-in-Jordan.git
